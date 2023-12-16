@@ -25,14 +25,14 @@ Currently, I am studying at Brest State University, majoring in artificial intel
 
 <p align="left"> <a href="https://discord.com/users/yan4844" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/OneVan4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/e1xandry4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/OneVan4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OneVan4&stroke=ec4899&background=000000&ring=facc15&fire=facc15&currStreakNum=ec4899&currStreakLabel=facc15&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
-
-<a href="https://github.com/OneVan4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneVan4&langs_count=10&title_color=facc15&text_color=ec4899&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/OneVan4/OneVan4/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
