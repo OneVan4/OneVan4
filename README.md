@@ -27,12 +27,6 @@ Currently, I am studying at Brest State University, majoring in artificial intel
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" height="50" alt="Photoshop" /></a>
 </p>
 
-
-
-
-
-
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -40,8 +34,6 @@ Currently, I am studying at Brest State University, majoring in artificial intel
   
   <br/><br/><br/>
 </div>
-
-<b>My GitHub Stats</b>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
