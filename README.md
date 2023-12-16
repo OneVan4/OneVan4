@@ -29,14 +29,7 @@ Currently, I am studying at Brest State University, majoring in artificial intel
 
 
 
-### Socials
 
-<p align="center">
-  <a href="tg://resolve?domain=Onevan4" target="_blank" rel="noreferrer"><img src="![image](https://github.com/OneVan4/OneVan4/assets/113106342/eb440fa4-d633-480e-9f1f-1499d71e6cd0)
-" width="50" height="50" alt="Telegram" /></a>
-  <a href="ссылка_на_ваш_GitHub" target="_blank" rel="noreferrer"><img src="ссылка_на_ваш_логотип_GitHub" width="50" height="50" alt="GitHub" /></a>
-  <a href="ссылка_на_ваш_Instagram" target="_blank" rel="noreferrer"><img src="ссылка_на_ваш_логотип_Instagram" width="50" height="50" alt="Instagram" /></a>
-</p>
 
 
 
