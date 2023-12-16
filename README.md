@@ -30,6 +30,4 @@ Currently, I am studying at Brest State University, majoring in artificial intel
 
 <a href="https://github.com/OneVan4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneVan4&langs_count=10&title_color=facc15&text_color=ec4899&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/OneVan4/https://github.com/OneVan4/MFL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OneVan4&repo=https://github.com/OneVan4/MFL&title_color=facc15&text_color=ec4899&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
