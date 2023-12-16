@@ -31,7 +31,13 @@ Currently, I am studying at Brest State University, majoring in artificial intel
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/yan4844" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/OneVan4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/e1xandry4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <a href="tg://resolve?domain=Onevan4" target="_blank" rel="noreferrer"><img src="![image](https://github.com/OneVan4/OneVan4/assets/113106342/eb440fa4-d633-480e-9f1f-1499d71e6cd0)
+" width="50" height="50" alt="Telegram" /></a>
+  <a href="ссылка_на_ваш_GitHub" target="_blank" rel="noreferrer"><img src="ссылка_на_ваш_логотип_GitHub" width="50" height="50" alt="GitHub" /></a>
+  <a href="ссылка_на_ваш_Instagram" target="_blank" rel="noreferrer"><img src="ссылка_на_ваш_логотип_Instagram" width="50" height="50" alt="Instagram" /></a>
+</p>
+
 
 
 <div align="center">
