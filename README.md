@@ -51,7 +51,7 @@ Currently, I am studying at Brest State University, majoring in artificial intel
 </div>
 
 <br/><br/>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?OneVan4=DenverCoder1)](https://git.io/streak-stats)
 <hr/>
 
 
