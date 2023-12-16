@@ -1,4 +1,4 @@
-Здравствуй! My name is Ivan Parfeyevets
+Здравствуй! 
 =================================
 
 I am an Android and desktop application developer.
