@@ -50,8 +50,6 @@ Currently, I am studying at Brest State University, majoring in artificial intel
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?OneVan4=DenverCoder1)](https://git.io/streak-stats)
-<hr/>
+
 
 
