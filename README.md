@@ -43,9 +43,18 @@ Currently, I am studying at Brest State University, majoring in artificial intel
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/OneVan4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OneVan4&stroke=22c55e&background=000000&ring=3382ed&fire=3382ed&currStreakNum=22c55e&currStreakLabel=3382ed&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <a href="http://www.github.com/OneVan4">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OneVan4&stroke=22c55e&background=000000&ring=3382ed&fire=3382ed&currStreakNum=22c55e&currStreakLabel=3382ed&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" width="500" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/OneVan4">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneVan4&langs_count=10&title_color=3382ed&text_color=22c55e&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" width="500" alt="Top Languages" />
+  </a>
+</div>
 
-<a href="https://github.com/OneVan4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneVan4&langs_count=10&title_color=3382ed&text_color=22c55e&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
