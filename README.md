@@ -10,7 +10,6 @@ I am an Android and desktop application developer.
 Currently, I am studying at Brest State University, majoring in artificial intelligence. In my free time from studying and sports, I engage in self-development in the field of desktop and mobile application development
 
 * 🌍  I'm based in Brest, Belarus
-* ✉️  You can contact me at [parfeyevets.ivan@bk.ru](mailto:parfeyevets.ivan@bk.ru)
 * 🤝  I'm open to collaborating on desktop and mobile application development
 
 ### Skills
